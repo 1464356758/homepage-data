@@ -1,0 +1,24 @@
+{
+  "personalInfo": {
+    "name": "张三",
+    "bio": "欢迎来到我的主页",
+    "avatar": "",
+    "links": [
+      { "label": "GitHub", "url": "https://github.com" }
+    ]
+  },
+  "cards": [
+    {
+      "id": "1",
+      "type": "text",
+      "content": { "text": "这是我的主页" },
+      "layout": { "x": 0, "y": 0, "w": 2, "h": 2 }
+    },
+    {
+      "id": "2",
+      "type": "image",
+      "content": { "url": "https://picsum.photos/400/300" },
+      "layout": { "x": 2, "y": 0, "w": 2, "h": 2 }
+    }
+  ]
+}
